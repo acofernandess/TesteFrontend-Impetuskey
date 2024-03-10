@@ -9,7 +9,7 @@ const NivelFacil = () =>{
                         </button>
                     </div>
             </div>
-    )
+    );
 
 };
 
