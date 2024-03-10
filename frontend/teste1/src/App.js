@@ -1,6 +1,3 @@
-
-import './App.css';
-import './components/NivelFacil';
 import NivelFacil from './components/NivelFacil';
 
 function App() {
